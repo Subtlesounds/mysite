@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kdaaqqb!1%&8u489@&hb*le4+^q4(!=azu+!#f7i@t=2v3*d4z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['subtlesounds.pythonanywhere.com']
+ALLOWED_HOSTS = ['subtlesounds.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
